@@ -1,12 +1,1 @@
-[
-  {
-    "username": "admin",
-    "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
-    "isAdmin": true
-  },
-  {
-    "username": "user1",
-    "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
-    "isAdmin": false
-  }
-]
+[{"username":"admin","password":"$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou","isAdmin":true},{"username":"user1","password":"$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou","isAdmin":false},{"username":"Atipat Daowraeng","password":"$2b$12$MqODA4BR7JEcPD9f4AawZ.EJ7dWwuVggATdDR58KpEiiV/g4JboVi","isAdmin":false}]
